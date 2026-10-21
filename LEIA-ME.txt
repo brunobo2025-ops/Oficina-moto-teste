@@ -1,0 +1,13 @@
+Oficina Moto — versão 2.6
+
+Novidade: na aba Estoque, é possível editar diretamente na própria linha o Código / referência, a Quantidade e o Preço de venda, cada um com seu botão Editar e confirmação OK. Não é necessário excluir e cadastrar o produto novamente.
+
+Também mantém a despesa rápida da versão anterior na aba Vendas.
+
+Instalação/atualização: publique os arquivos deste pacote no mesmo local do aplicativo. Faça backup dos dados antes de substituir arquivos. Os registros ficam salvos no navegador do aparelho.
+
+Atualização v3.2: adicionada coluna Custo unitário no estoque, com edição direta por linha.
+
+Versão 2.9: identidade visual premium em preto e dourado e tela inicial redesenhada.
+
+Atualização v3.2: a tela de nova ordem de serviço mostra o subtotal das peças, o valor da mão de obra e o total da OS acima do campo Valor recebido, atualizando automaticamente conforme os itens e valores são alterados.
